@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/my-project.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/my-project.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/business-logic/my-project.business-logic.iml" filepath="$PROJECT_DIR$/.idea/modules/business-logic/my-project.business-logic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/business-logic/my-project.business-logic.main.iml" filepath="$PROJECT_DIR$/.idea/modules/business-logic/my-project.business-logic.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/business-logic/my-project.business-logic.test.iml" filepath="$PROJECT_DIR$/.idea/modules/business-logic/my-project.business-logic.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/gradle/plugins/java-plugins/plugins.java-plugins.main.iml" filepath="$PROJECT_DIR$/.idea/modules/gradle/plugins/java-plugins/plugins.java-plugins.main.iml" />
+    </modules>
+  </component>
+</project>
